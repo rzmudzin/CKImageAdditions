@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/cmkilger/CKImageAdditions"
   s.license      = 'MIT'
   s.author       = { "Cory Kilger" => "cmkilger@gmail.com" }
-  s.source       = { :git => "https://github.com/cmkilger/CKImageAdditions.git", :branch => "main" }
+  s.source       = { :git => "https://github.com/cmkilger/CKImageAdditions.git", :commit => "7b29d07" }
   s.platform     = :ios, '13.0'
   s.source_files = 'Sources/CKImageAdditions'
 end
